@@ -1,0 +1,4 @@
+<Context>
+<WatchedResource>WEB-INF/web.xml</WatchedResource>
+<ResourceLink global="settings/APP_CONFIG_LOCATION" name="settings/APP_CONFIG_LOCATION" type="java.lang.String" />
+</Context>
