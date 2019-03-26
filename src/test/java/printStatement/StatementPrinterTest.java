@@ -31,7 +31,6 @@ public class StatementPrinterTest {
 	}
 	
 	
-	
 	@Test
 	public void shouldPrintHeader(){
 		List<TransactionDTO> transactions= Collections.emptyList();

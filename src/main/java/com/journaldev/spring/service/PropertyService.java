@@ -49,8 +49,6 @@ public class PropertyService {
 		.mapToInt(String::length)
 		.max()
 		.getAsInt();
-		
-				
 		return result;
 	}
 

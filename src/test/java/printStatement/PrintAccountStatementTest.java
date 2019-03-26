@@ -47,7 +47,6 @@ public class PrintAccountStatementTest {
 		inOrder.verify(console).printLine("02/04/2018 | -100.00 | 900");
 		inOrder.verify(console).printLine("01/04/2018 | 1000.00 | 1000");
 		
-		
 	}
 	
 }

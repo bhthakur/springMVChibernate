@@ -10,7 +10,6 @@ public class NumberUtils {
 	public static boolean isPrime(int num) {
 		return IntStream.range(2, num)
 				 		.noneMatch(e -> num % e == 0);
-
 	}
 
 	public static List<Double> sqrt100Prime() {
